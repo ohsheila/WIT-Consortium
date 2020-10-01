@@ -23,14 +23,12 @@
 | Diversity & Womxn in Tech - Black Women in STEM | [New Tech NW](https://www.newtechnorthwest.com/) | 11/10/2020 | 2:00-3:30pm PT | [Tickets](https://www.eventbrite.com/e/diversity-womxn-in-tech-black-women-in-stem-tickets-123038285825) | $7 |
 
 
-# DECEMBER 2020
-
-
 # MARCH 2021
 
 | Event       | Organization | Date(s) | Time | Register  | Cost |
 | ----------- | ------------ | ------- | ---- | --------- | ---- |
 | [Virtual Summit](https://womenintechsummit.net/spring2021virtual/) | [Women in Tech Summit](https://womenintechsummit.net) | 3/24/2021 - 3/26/2021 | TBD  | [Tickets](https://whova.com/portal/registration/witsm_202009/) | $249 |
+
 
 # OCTOBER 2021
 
