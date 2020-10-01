@@ -19,7 +19,7 @@
 
 | Event       | Organization | Date(s) | Time | Link          | Register  |
 | ----------- | ------------ | ------- | ---- | ------------- | --------- |
-| Diversity & Womxn in Tech - Black Women in STEM | [New Tech Northwest](https://www.newtechnorthwest.com/) | 11/10/2020 | 2:00-3:30pm PT | [Event page]() | [Register](https://www.eventbrite.com/e/diversity-womxn-in-tech-black-women-in-stem-tickets-123038285825) |
+| Diversity & Womxn in Tech - Black Women in STEM | [New Tech Northwest](https://www.newtechnorthwest.com/) | 11/10/2020 | 2:00-3:30pm PT |  | [Register](https://www.eventbrite.com/e/diversity-womxn-in-tech-black-women-in-stem-tickets-123038285825) |
 
 
 
