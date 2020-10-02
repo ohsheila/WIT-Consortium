@@ -2,7 +2,7 @@
 
 | Event       | Organization | Date(s) | Time | Location | Register  | Cost |
 | ----------- | ------------ | ------- | ---- | -------- | --------- | ---- |
-| [Seattle Women in Tech Regatta](https://womenintechregatta.com/seattle/) | [WiT Regatta](https://womenintechregatta.com/) | Mon, 8/10 - Thu, 8/20 | All day | Virtual | Closed | Varies |
+| [Seattle Women in Tech Regatta](https://womenintechregatta.com/seattle/){:target="_blank"} | [WiT Regatta](https://womenintechregatta.com/) | Mon, 8/10 - Thu, 8/20 | All day | Virtual | Closed | Varies |
 
 
 # SEPTEMBER 2020
