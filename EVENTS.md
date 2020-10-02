@@ -2,14 +2,14 @@
 
 | Event       | Organization | Date(s) | Time | Location | Register  | Cost |
 | ----------- | ------------ | ------- | ---- | -------- | --------- | ---- |
-| [Virtual Grace Hopper Celebration](https://ghc.anitab.org/) | [AnitaB.org](https://anitab.org/) | Tue, 9/28 - Sat, 10/2 | All day | Virtual | Sold out | Varies |
+| [Virtual Grace Hopper Celebration](https://ghc.anitab.org/) | [AnitaB.org](https://anitab.org/) | Tue, 9/28 - Sat, 10/2 | All day | Virtual | Sold out | $199-$799 |
 
 
 # OCTOBER 2020
 
 | Event       | Organization | Date(s) | Time | Location | Register  | Cost |
 | ----------- | ------------ | ------- | ---- | -------- | --------- | ---- |
-| [Virtual Grace Hopper Celebration](https://ghc.anitab.org/) | [AnitaB.org](https://anitab.org/) | Tue, 9/28 - Sat, 10/2 | All day | Virtual | Sold out | Varies |
+| [Virtual Grace Hopper Celebration](https://ghc.anitab.org/) | [AnitaB.org](https://anitab.org/) | Tue, 9/28 - Sat, 10/2 | All day | Virtual | Sold out | $199-$799 |
 | [Productivity Tech Night](https://www.newtechnorthwest.com/new-tech-virtual-meetup-productivity-tech-night-october-6-2020/) | [New Tech NW](https://www.newtechnorthwest.com/) | Tue, 10/6 | 2:00-3:30pm PT | Virtual | [Tickets](https://www.eventbrite.com/e/new-tech-virtual-meetup-productivity-tech-tickets-121275808207) | $7 |
 | [Community Happy Hour](https://www.newtechnorthwest.com/new-tech-nw-community-happy-hour-october-14-2020/) | [New Tech NW](https://www.newtechnorthwest.com/) | Wed, 10/14 | 5:00-6:00pm PT | Virtual | [Tickets](https://www.eventbrite.com/e/new-tech-nw-community-happy-hour-tickets-123067737917) | FREE |
 | [Women in Product Conference](https://www.womenpm.org/conference) | [Women in Product](https://www.womenpm.org) | Tue, 10/20 - Thu, 10/22 | 8:30am - 1:30pm PT | Virtual | [Tickets](https://www.eventbrite.com/e/women-in-product-conference-2020-live-online-registration-98507136497) | $49-$149 |
